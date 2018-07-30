@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+	font-family: 'czcionka';
+	src: url('fonts/04B_19.ttf') format('truetype');
+}
+	
+ body {
+	font-family: "Courier New", Courier, monospace;
+}
